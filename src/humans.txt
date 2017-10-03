@@ -1,0 +1,34 @@
+
+/* TEAM */
+
+
+Developer: Nana Xie
+
+
+Site: www.hellonana.top
+
+
+Github: NanaCode
+
+
+Location: Shenzhen, China
+
+
+
+/* THANKS */
+
+
+Name: www.imooc.com
+
+
+
+/* SITE */
+
+
+Last update: 2017/10/03
+
+
+Standards: HTML5, CSS3, JS
+
+
+Components: jQuery, etc.
