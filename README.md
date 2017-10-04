@@ -1,2 +1,2 @@
 # ResponsiveWebDesign
-Responsive WebDesign
+Responsive Web Design
